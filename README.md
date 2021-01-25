@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in [russian retail startup](https://prognoz.me)
 
-- 🌱 I’m currently learning **Quantum computing, qiskit, mlflow, docker, pytorch**
+- 🌱 I’m currently learning **Quantum computing, qiskit, mlflow, docker, pytorch, statistics**
 
 - 💬 Ask me about **ML, time series, physics**
 
