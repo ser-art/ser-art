@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ser-art&label=Profile%20views&color=0e75b6&style=flat" alt="ser-art" /> </p>
 
-- 🔭 I’m currently working in [russian retail startup](https://prognoz.me)
+- 🔭 I’m currently working in [russian retail startup](https://megainsight.ru)
 
 - 🌱 I’m currently learning **Quantum computing, qiskit, mlflow, docker, pytorch, statistics**
 
